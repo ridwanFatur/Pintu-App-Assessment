@@ -1,0 +1,9 @@
+npm i @react-navigation/native
+npm i @react-navigation/native-stack
+npm i @react-navigation/stack
+npm i axios
+npm i react
+npm i react-native
+npm i react-native-gesture-handler
+npm i react-native-safe-area-context
+npm i react-native-screens
